@@ -1,5 +1,5 @@
 # bijaya-python
-App
+Create REST endpoint that return the sum of a list of numbers e.g. [1,2,3] => 1+2+3 = 6
 This application is developed using Flask Python 3 Framework. This application returns sum of list elements from the url http://localhost:5000/total.
 The following folders contain:
 •	src source for the application.
